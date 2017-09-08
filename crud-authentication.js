@@ -2,7 +2,7 @@
     express
     body-parser
     mongoose
-    express-session: Dung de lua session khi nguoi dung dang nhap 
+    express-session: Dung de lưu session khi nguoi dung dang nhap 
 */
 var express = require('express');
 var mongoose = require('mongoose');
